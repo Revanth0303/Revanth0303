@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @Revanth0303
-- 👀 I’m interested in Data Analyst
-- 🌱 I’m currently learning Python
+Hi, I'm Revanth Reddy
+
+
+connect with me www.linkedin.com/in/
+revanth0303
+
+
 
 
 <!---
